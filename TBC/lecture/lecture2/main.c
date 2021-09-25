@@ -1,20 +1,31 @@
 #include <stdio.h>
 
-int main()
+// 인덴팅
+// 줄바꿈
+// 중괄호 위치
+
+// 좋은 코드 보고 공부하기
+// https://github.com/torvalds/linux/blob/master/init/main.c
+
+/* void my_func() {// do something
+                        }
+
+int main() { int x = 0, y = 1;
+int z = 0;
+z = x + y;return 0;
+} */
+
+void my_func() 
 {
-    int n1, n2, n3, n4;
+    // do something
+}
 
-    // n5 =3; // error: 'n5' undeclared
+int main() 
+{ 
+    int x = 0, y = 1;
+    int z = 0;
 
-    // 문맥오류, 시맨틱 에러 (n4 ==> 4제곱)
-    // n1 = 1; // 1 이면 n4까지 모두 1이므로 문맥오류, 찾기가 쉽지 않다.
-    n1 = 2;
-    n2 = n1 * n1;
-    n3 = n2 * n1;
-    n4 = n2 * n1; // 디버깅시 n3과 같게 8이 되므로 문제를 찾을 수 있다.
-
-    // 문법 오류는 쉽게 찾을 수 있지만 문맥 오류는 쉽게 찾을 수 없다.
-    // 컴파일러가 도와서 하도록 코딩하기
+    z = x + y;
 
     return 0;
 }
