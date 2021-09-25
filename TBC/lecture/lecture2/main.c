@@ -1,25 +1,27 @@
+/*
+ * Written by J.-M. Hong
+ */ 
+
+// 주석을 달아야 할 곳에는 달고, 달지 말아야 할 곳에는 달지 말기!
+
 #include <stdio.h>
 
 int main()
 {
-    
-    // print formatted 형식을 맞춘다.
-    printf("\"The truth is ... \nI am Ironman.\n\"");
-    // escape sequence
+    /*
+        This is my code
+    */
 
-    int x, y, z;
+    // variables (x)
+    int x, y, sum;
 
     x = 1;
     y = 4;
 
-    z = x + y;
+    sum = x + y; // add two numbers (x) --> 변수명을 sum으로 바꾸어서 사용
 
-    printf("\nThe answer is z.");
-    printf("\nThe answer is %i.", 1+4); // integer
-    printf("\nThe answer is %d.", z); // decimal (10진수)
-    printf("\nThe answer is %i.", z);
-    printf("\n%i + %i = %i", x, y, z);
-    printf("\a"); // 경고음
+    printf("\n%i + %i = %i", x, y, sum);
+    printf("\a");
 
     return 0;
 }
