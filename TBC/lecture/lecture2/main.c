@@ -1,22 +1,25 @@
+#include <stdio.h>
+
 int main()
 {
-    // int x; // declaration
-    // int y;
-    // int z;
+    
+    // print formatted 형식을 맞춘다.
+    printf("\"The truth is ... \nI am Ironman.\n\"");
+    // escape sequence
 
-    // int x, y, z;
+    int x, y, z;
 
-    // x = 1; // assignment
-    // y = 2;
-
-    // int x = 1, y= 2, z;
-    // int x = 1, y= 2, z = x + y; 
-    // 초기화와 연산이 함께 있기 때문에 쪼개는 것이 좋다.
-
-    int x = 1, y = 2;
-    int z;
+    x = 1;
+    y = 4;
 
     z = x + y;
+
+    printf("\nThe answer is z.");
+    printf("\nThe answer is %i.", 1+4); // integer
+    printf("\nThe answer is %d.", z); // decimal (10진수)
+    printf("\nThe answer is %i.", z);
+    printf("\n%i + %i = %i", x, y, z);
+    printf("\a"); // 경고음
 
     return 0;
 }
