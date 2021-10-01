@@ -1,6 +1,7 @@
 # 따라하며 배우는 C언어
 
-## 0. 초보 프로그래머를 위한 컴퓨터의 작동 원리
+<details>
+<summary><h2 style="display:inline">0. 초보 프로그래머를 위한 컴퓨터의 작동 원리</h2></summary>
 
 0.0 초보 프로그래머를 위한 컴퓨터의 작동 원리 강의 개요
 
@@ -24,7 +25,10 @@
 
 0.10 이진수
 
-## 1. 천천히 시작해봅시다.
+</details>
+
+<details>
+<summary><h2 style="display:inline">1. 천천히 시작해봅시다.</h2></summary>
 
 1.0 C언어를 제대로 배우는 방법
 
@@ -54,7 +58,10 @@
 
 1.13 비주얼 스튜디오 코드의 기본적인 사용 방법
 
-## 2. C언어를 소개합니다.
+</details>
+
+<details>
+<summary><h2 style="display:inline">2. C언어를 소개합니다.</h2></summary>
 
 2.1 C의 해부학
 
@@ -80,7 +87,10 @@
 
 2.12 읽기 좋은 코드를 만드는 요령
 
-## 3. 데이터와 C언어
+</details>
+
+<details>
+<summary><h2 style="display:inline">3. 데이터와 C언어</h2></summary>
 
 3.1 데이터와 자료형
 
@@ -110,7 +120,10 @@
 
 3.14 복소수형
 
-## 4. 문자열과 형식 맞춘 입출력
+</details>
+
+<details>
+<summary><h2 style="display:inline">4. 문자열과 형식 맞춘 입출력</h2></summary>
 
 4.1 문자열 입출력하기
 
@@ -132,7 +145,10 @@
 
 4.10 scanf() 함수의 사용법
 
-## 5. 연산자, 표현식, 문장
+</details>
+
+<details>
+<summary><h2 style="display:inline">5. 연산자, 표현식, 문장</h2></summary>
 
 5.1 반복 루프와의 첫 만남
 
@@ -158,7 +174,10 @@
 
 5.12 함수의 인수와 매개변수 ​
 
-## 6. 반복문
+</details>
+
+<details>
+<summary><h2 style="display:inline">6. 반복문</h2></summary>
 
 6.1 while 반복 루프에서 scanf()의 반환값 사용하기
 
@@ -196,7 +215,10 @@
 
 6.18 루프 안에서 함수의 반환값 사용하기
 
-## 7. 분기
+</details>
+
+<details>
+<summary><h2 style="display:inline">7. 분기</h2></summary>
 
 7.1 분기문 if
 
@@ -223,3 +245,5 @@
 7.12 다중 선택 switch와 break
 
 7.13 goto를 피하는 방법
+
+</details>
