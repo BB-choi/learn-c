@@ -1,7 +1,7 @@
 # 따라하며 배우는 C언어
 
 <details>
-<summary><h2 style="display:inline">0. 초보 프로그래머를 위한 컴퓨터의 작동 원리</h2></summary>
+<summary style="font-size: 1.5em;font-weight: bold;">0. 초보 프로그래머를 위한 컴퓨터의 작동 원리</summary>
 
 0.0 초보 프로그래머를 위한 컴퓨터의 작동 원리 강의 개요
 
@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary><h2 style="display:inline">1. 천천히 시작해봅시다.</h2></summary>
+<summary style="font-size: 1.5em;font-weight: bold;">1. 천천히 시작해봅시다.</summary>
 
 1.0 C언어를 제대로 배우는 방법
 
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-<summary><h2 style="display:inline">2. C언어를 소개합니다.</h2></summary>
+<summary style="font-size: 1.5em;font-weight: bold;">2. C언어를 소개합니다.</summary>
 
 2.1 C의 해부학
 
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-<summary><h2 style="display:inline">3. 데이터와 C언어</h2></summary>
+<summary style="font-size: 1.5em;font-weight: bold;">3. 데이터와 C언어</summary>
 
 3.1 데이터와 자료형
 
@@ -123,7 +123,7 @@
 </details>
 
 <details>
-<summary><h2 style="display:inline">4. 문자열과 형식 맞춘 입출력</h2></summary>
+<summary style="font-size: 1.5em;font-weight: bold;">4. 문자열과 형식 맞춘 입출력</summary>
 
 4.1 문자열 입출력하기
 
@@ -148,7 +148,7 @@
 </details>
 
 <details>
-<summary><h2 style="display:inline">5. 연산자, 표현식, 문장</h2></summary>
+<summary style="font-size: 1.5em;font-weight: bold;">5. 연산자, 표현식, 문장</summary>
 
 5.1 반복 루프와의 첫 만남
 
@@ -177,7 +177,7 @@
 </details>
 
 <details>
-<summary><h2 style="display:inline">6. 반복문</h2></summary>
+<summary style="font-size: 1.5em;font-weight: bold;">6. 반복문</summary>
 
 6.1 while 반복 루프에서 scanf()의 반환값 사용하기
 
@@ -218,7 +218,7 @@
 </details>
 
 <details>
-<summary><h2 style="display:inline">7. 분기</h2></summary>
+<summary style="font-size: 1.5em;font-weight: bold;">7. 분기</summary>
 
 7.1 분기문 if
 
